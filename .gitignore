@@ -1,0 +1,11 @@
+# Only public resume materials belong in this repository.
+/*
+!/.gitignore
+!/README.md
+!/resume.md
+!/docs/
+!/assets/
+
+.DS_Store
+._*
+*~
