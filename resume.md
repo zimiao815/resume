@@ -15,13 +15,13 @@
 - 负责跨 Qualcomm / MediaTek 平台的 Wifi和ezMesh 管理业务设计与开发，具备模块设计、跨平台适配、复杂问题定位和技术协作经验；具备小团队技术带领与协作推进经验。
 - 具有丰富的 Linux 系统优化经验，熟悉内存管理、Swap 机制及 CPU 使用分析；结合 perf、vmstat 定位内存压力、频繁换页与高 I/O 等待问题，通过内存布局调整、内核裁剪和应用优化改善系统响应。
 
-## 核心技能
+## 技能关键字（请跳过）
 
 - **系统与平台**：嵌入式 Linux、OpenWrt、Qualcomm QSDK、U-Boot、Device Tree、eMMC 分区规划、内核裁剪、驱动适配、交叉编译、系统集成及 OTA 升级。
 - **应用与工具**：C、Shell、Lua，Linux 系统与网络编程；GCC、GDB、Makefile、Git；性能分析工具等。
 - **无线**：IEEE 802.11、IEEE 1905、EasyMesh；阅读空口模式下抓包分析，接入、漫游和转发问题。
 - **性能与硬件调试**：使用 perf、vmstat、系统日志分析内存及性能问题；具有原理图、PCB 和板级调试经验。
-- **verb coding**：各类编程Agent都用过，目前主力是codex
+- **verb coding**：各类AI编程Agent都用过，目前主力是codex
 
 ## 工作经历
 
