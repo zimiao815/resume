@@ -18,9 +18,9 @@
 ## 核心技能
 
 - **系统与平台**：嵌入式 Linux、OpenWrt、Qualcomm QSDK、U-Boot、Device Tree、eMMC 分区规划、内核裁剪、驱动适配、交叉编译、系统集成及 OTA 升级。
-- **应用与工具**：C、Shell、Lua，Linux 系统与网络编程；GCC、GDB、Makefile、Git；具有业务程序移植、内存泄漏修复和功能模块重构经验。
-- **网络与无线**：网络原理、IEEE 802.11、IEEE 1905、EasyMesh；使用 tcpdump、Wireshark、Monitor 模式空口抓包分析接入、漫游和转发问题。
-- **性能与硬件调试**：使用 perf、vmstat、系统日志分析内存及性能问题；具有原理图、PCB 和板级调试经验，熟悉 UART、SPI、I²C、ADC 等接口。
+- **应用与工具**：C、Shell、Lua，Linux 系统与网络编程；GCC、GDB、Makefile、Git；性能分析工具等。
+- **无线**：IEEE 802.11、IEEE 1905、EasyMesh；阅读空口模式下抓包分析，接入、漫游和转发问题。
+- **性能与硬件调试**：使用 perf、vmstat、系统日志分析内存及性能问题；具有原理图、PCB 和板级调试经验。
 - **verb coding**：各类编程Agent都用过，目前主力是codex
 
 ## 工作经历
